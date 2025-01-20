@@ -1,9 +1,6 @@
 # Cardiac-Arrest-Prediction
 Predicting Cardiact Arrest using Machine Learning 
 
-### README for "Coronary Heart Disease Prediction and Analysis"
-
-# **Coronary Heart Disease Prediction and Analysis**
 
 ## **Overview**
 This project focuses on predicting Coronary Heart Disease (CHD) using a comprehensive healthcare dataset. By leveraging machine learning techniques, feature engineering, and statistical analysis, the study identifies key predictors of CHD and evaluates the effectiveness of various classification models.
